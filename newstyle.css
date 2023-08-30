@@ -20,5 +20,9 @@ img.image-with-text__image{
 }
   
 p.image-with-text__text {
+line-height: 2;
+}
 
+h1.image-with-text__text {
+  padding-bottom: 15px;
 }
