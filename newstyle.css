@@ -12,5 +12,10 @@ h1.hero__heading hero__heading--regular {
 
 section.image-with-text{
 background-color: #f2f2f2;
-padding: 50px;
+padding: 40px;
 }
+
+div.image-with-text__image-container{
+  width: 85%;
+}
+  
