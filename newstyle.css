@@ -4,3 +4,7 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+section-header__heading {
+  font-size: 100px;
+}
