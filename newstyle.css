@@ -1,4 +1,4 @@
-h1 {
+hero__heading hero__heading--regular {
   font-size: 72px;
   background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;
