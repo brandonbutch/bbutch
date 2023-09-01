@@ -31,3 +31,7 @@ line-height: 2;
 h1.image-with-text__text {
   padding-bottom: 15px;
 }
+
+p.tile__price{
+  font-size: .8em;
+}
