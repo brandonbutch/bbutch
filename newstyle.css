@@ -10,9 +10,14 @@ h1.hero__heading {
   -moz-text-fill-color: transparent;
 }
 
+#fw-section-tiers-1693346107{
+background-color: color(srgb 0.97 0.97 0.97 / 0.68);
+padding: 3em;
+}
+
 section.image-with-text{
-background-color: #f2f2f2;
-padding: 40px;
+background-color: color(srgb 0.97 0.97 0.97 / 0.68);
+padding: 3em;
 }
 
 img.image-with-text__image{
