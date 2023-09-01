@@ -34,4 +34,5 @@ h1.image-with-text__text {
 
 p.tile__price{
   font-size: .8em;
+  margin-top: 5px;
 }
